@@ -1,0 +1,4 @@
+pandas==1.3.5
+tradingview-ta==3.3.0
+ta==0.10.2
+cctx==1.0.0
